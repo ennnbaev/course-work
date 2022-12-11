@@ -1,0 +1,11 @@
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AddCompFormForm.resources
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AddMyFolderForm.resources
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Syncronization_program.resources
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AddCompFormFormButton.resources
+D:\Projects\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
